@@ -10,7 +10,8 @@ As we can see Game C is a winning game.
 
 ---
 The work on this project was done for the Intermediate Linear Algebra class at [Bowdoin College](https://bowdoin.edu) taught by 
-[Professor Pietraho](http://www.bowdoin.edu/~tpietrah/), who always offered deep mathematical insight and guidance along the way.
+[Professor Pietraho](http://www.bowdoin.edu/~tpietrah/), who always offered deep mathematical insight and guidance along the way. Parts
+of the simulation code were kindly provided by Professor Pietraho.
 
 This work was done as a group project with Parikshit Sharma, [Marcus Christiansen](https://github.com/MarcusEFC), 
 and Ernesto Garcia without whom it would not be possible.
