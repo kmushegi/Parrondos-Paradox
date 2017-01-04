@@ -1,6 +1,5 @@
 ## Parrondo's Paradox
-This repository stores MATLAB code used to simulate Parrondo's Paradox. The Parrondo’s Paradox is a seemingly absurd phenomenon where 
-two losing strategies can be combined to produce a winning outcome. 
+This repository stores MATLAB code used to simulate Parrondo's Paradox and the paper describing our results. The Parrondo’s Paradox is a seemingly absurd phenomenon where two losing strategies can be combined to produce a winning outcome. 
 The [paper](https://github.com/kmushegi/Parrondos-Paradox/blob/master/parrondos-games.pdf) present in this repository represents 
 an effort to analyze the 'paradox' and explain it using mathematics, namely linear algebra.
 
