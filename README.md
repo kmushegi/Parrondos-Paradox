@@ -14,6 +14,6 @@ The work on this project was done for the Intermediate Linear Algebra class at [
 [Professor Pietraho](http://www.bowdoin.edu/~tpietrah/), who always offered deep mathematical insight and guidance along the way.
 
 This work was done as a group project with Parikshit Sharma, [Marcus Christiansen](https://github.com/MarcusEFC), 
-and Ernesto Garcia, without whom it would not be possible.
+and Ernesto Garcia without whom it would not be possible.
 
 
